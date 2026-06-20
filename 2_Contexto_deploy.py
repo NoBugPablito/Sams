@@ -20,7 +20,7 @@ html, body, [data-testid="stAppViewContainer"] {
     max-width: 1100px;
     margin: 0 auto;
 }
-#MainMenu, footer, header { visibility: hidden; }
+
 
 /* ── HERO ── */
 .hero {
