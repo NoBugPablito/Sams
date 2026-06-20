@@ -1,11 +1,5 @@
 import streamlit as st
 
-st.set_page_config(
-    page_title="Contexto – Simulador Biobío",
-    layout="wide",
-    initial_sidebar_state="expanded"
-)
-
 st.markdown("""
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Space+Grotesk:wght@600;700&display=swap');
